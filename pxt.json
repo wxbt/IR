@@ -1,0 +1,22 @@
+{
+    "name": "IR",
+    "version": "1.0.0",
+    "description": "Extension for micro:bit IR receiver ",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "TransmitterIR.cpp",
+        "TransmitterIR.h"
+    ],
+    "public": true
+}
+
